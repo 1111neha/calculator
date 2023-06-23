@@ -1,10 +1,3 @@
- [Deployed link](https: //calculator-9a7sq3ilk-1111neha.vercel.app).
-
-
-
-
-
-
 
 
 
