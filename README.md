@@ -1,3 +1,6 @@
+Here is the preview: [https://calculator-9a7sq3ilk-1111neha.vercel.app/](https://calculator-9a7sq3ilk-1111neha.vercel.app/) 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
